@@ -1,2 +1,2 @@
-# Programa Starg By Capgemini
+# Programa Start By Capgemini
 ## Exercícios de Java
