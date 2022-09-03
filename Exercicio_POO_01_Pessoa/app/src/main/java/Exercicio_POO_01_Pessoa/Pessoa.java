@@ -5,7 +5,6 @@
 package Exercicio_POO_01_Pessoa;
     import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
-import java.util.Date;
 
 /**
  *
