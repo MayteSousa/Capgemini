@@ -16,8 +16,8 @@ import java.util.Date;
 public class Data {
     
     private int dia, mes, ano;
-Date date = new Date(); // sua instancia Date
-Calendar calendar = Calendar.getInstance();
+    Date date = new Date(); // sua instancia Date
+    Calendar calendar = Calendar.getInstance();
 //calendar.setTime(date);
         
         int anoAtual = calendar.get(calendar.YEAR);
