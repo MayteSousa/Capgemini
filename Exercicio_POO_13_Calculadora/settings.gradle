@@ -7,5 +7,5 @@
  * in the user manual at https://docs.gradle.org/7.4/userguide/multi_project_builds.html
  */
 
-rootProject.name = 'gradleproject1'
+rootProject.name = 'Exercicio_POO_13_Calculadora'
 include('app')
